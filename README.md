@@ -7,3 +7,4 @@ Write at least three ideas for projects you want to implement
 
 ![infiniteSkills](http://j.mp/infiniteSkills)
 
+![hackYourGenius](http://j.mp/hackYourGenius)
